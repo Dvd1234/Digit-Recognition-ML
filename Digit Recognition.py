@@ -2,7 +2,7 @@
 """
 Created on Fri Dec 21 18:09:03 2018
 
-@author: wc
+@author: Deepak
 """
 #loading all modules
 import matplotlib.pyplot as plt
